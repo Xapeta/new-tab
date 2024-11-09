@@ -1,2 +1,2 @@
 # new-tab
-Treino para programção
+Treino para programação
